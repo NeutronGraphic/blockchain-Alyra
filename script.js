@@ -1,1 +1,2 @@
-alert("Hello world !")
+var hello = "Hello word";
+alert(Hello);
