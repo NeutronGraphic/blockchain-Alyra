@@ -1,4 +1,6 @@
 
+const readline = require('readline');
+
 var m;
 
 var n = prompt("Entrer un nombre entier entre 1 et 100");
